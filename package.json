@@ -1,0 +1,11 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "description": "A Basic ERC20 Token with burn function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nihar Shah",
+  "license": "ISC"
+}
